@@ -1,7 +1,7 @@
-[![MasterHead](https://www.pinterest.com/pin/515310382374490235/)]
+[![MasterHead](https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif)]
 <h1 align="center">Hi 👋, I'm Soham Kumar Dey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="https://www.pinterest.com/pin/pinterest--59813501292017265/">
+<img align="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9526kyhj72gj5trfyibsbl0fo4zct8qsp6ou146vkp6&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamdey07&label=Profile%20views&color=0e75b6&style=flat" alt="sohamdey07" /> </p>
 
