@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamdey07&label=Profile%20views&color=0e75b6&style=flat" alt="sohamdey07" /> </p>
 
-- 🌱 I’m currently learning **Cascading Style Sheets**
-
 - 📫 How to reach me **sohamdey017@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
